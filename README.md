@@ -1,4 +1,8 @@
 # AI-project
+
+
+ The goal of this project is to implement a deep neural network model for a regression problem, the goal of this model is to predict the output of a mosfet transistor chip based on some given features and equation with some unknown variables
+
 # problem statement
 We need to build a model that predicts the transistor current value based on some parameters. Here is the list of parameters that you are allowed to use in your model as model input:
 
